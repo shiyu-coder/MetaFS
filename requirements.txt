@@ -1,0 +1,47 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+_libgcc_mutex=0.1=main
+_openmp_mutex=5.1=1_gnu
+autofeat=2.1.2=pypi_0
+ca-certificates=2024.3.11=h06a4308_0
+cloudpickle=3.0.0=pypi_0
+contourpy=1.1.1=pypi_0
+cycler=0.12.1=pypi_0
+fonttools=4.53.0=pypi_0
+importlib-resources=6.4.0=pypi_0
+kiwisolver=1.4.5=pypi_0
+ld_impl_linux-64=2.38=h1181459_1
+libffi=3.4.4=h6a678d5_1
+libgcc-ng=11.2.0=h1234567_1
+libgomp=11.2.0=h1234567_1
+libstdcxx-ng=11.2.0=h1234567_1
+lightgbm=4.4.0=pypi_0
+matplotlib=3.7.5=pypi_0
+mpmath=1.3.0=pypi_0
+ncurses=6.4=h6a678d5_0
+numpy=1.22.4=pypi_0
+openssl=3.0.14=h5eee18b_0
+pillow=10.3.0=pypi_0
+pint=0.21.1=pypi_0
+pip=24.0=py38h06a4308_0
+pyparsing=3.1.2=pypi_0
+pyswarm=0.6=pypi_0
+python=3.8.19=h955ad1f_0
+python-dateutil=2.9.0.post0=pypi_0
+pytz=2024.1=pypi_0
+readline=8.2=h5eee18b_0
+scikit-learn=1.3.2=pypi_0
+scipy=1.10.1=pypi_0
+setuptools=69.5.1=py38h06a4308_0
+six=1.16.0=pypi_0
+skrebate=0.62=pypi_0
+sqlite=3.45.3=h5eee18b_0
+sympy=1.12.1=pypi_0
+threadpoolctl=3.5.0=pypi_0
+tk=8.6.14=h39e8969_0
+tqdm=4.66.4=pypi_0
+wheel=0.43.0=py38h06a4308_0
+xz=5.4.6=h5eee18b_1
+zipp=3.19.2=pypi_0
+zlib=1.2.13=h5eee18b_1
