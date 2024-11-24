@@ -34,7 +34,7 @@ python method_compare.py --method_name MetaFS --model_name LogisticRegression
 
 ## Supplemental Results
 
-The detailed results of each method on different datasets are shown in the following tables.
+The detailed results of each method on different datasets are shown in the following tables. All results in the table are multiplied by 100 for easier comparison.
 
 ![](asset/supplemental_table_1.png)
 
